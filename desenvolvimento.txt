@@ -1,0 +1,2 @@
+Pessoas 
+- Crie três objetos contendo o nome da pessoa, o cpf e também o rg dela
